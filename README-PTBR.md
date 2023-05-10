@@ -54,7 +54,7 @@ Para implantar o projeto em um sistema ativo, basta copiar todos os arquivos do 
 
 ## 📌 Versão
 
-O projeto se encontra na Versão 4.0
+O projeto se encontra na Versão 1.0
 
 ## ✒️ Autores
 - Caio Rabinovich
