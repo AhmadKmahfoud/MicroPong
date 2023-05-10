@@ -45,6 +45,13 @@ Certifique-se de que todas as conexões estejam corretas antes de prosseguir com
 ### 📦implantação
 Para implantar o projeto em um sistema ativo, basta copiar todos os arquivos do projeto para o Raspberry Pi Pico.
 
+
+### 🎮Video funcional
+
+
+https://github.com/AhmadKmahfoud/MicroPong/assets/82835417/b3d12c3b-8503-437b-9c47-501fbb684a49
+
+
 ## 🛠️ Construído com
 - MicroPython - a linguagem de programação usada
 - Raspberry Pi Pico - o microcontrolador utilizado
