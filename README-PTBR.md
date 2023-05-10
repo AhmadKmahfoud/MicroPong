@@ -58,6 +58,18 @@ https://github.com/AhmadKmahfoud/MicroPong/assets/82835417/b3d12c3b-8503-437b-9c
 - Bibliotecas do python:
     - uTime
     - Ssd1306
+### 💸 Analise de custo
+Estima-se que o valor total para desenvolvimento e produção do projeto é de R$ 125,00. Lista de custos:
+- 2 Potenciômetros: R$ 2,00 cada.
+- 1 Raspberry Pi Pico: R$ 50,00 cada.  
+- 1 Tela OLED I2C: R$ 35,00 cada.
+- 2 PUSH button: R$ 3,00 10 unidades.
+- 1 Placa padrão 5cm x 10cm: R$ 7,90 cada.
+- 1 Suporte de pilhas 3x AA: R$ 5,50 cada.
+- 2 Capas de potenciômetro: R$ 1,50 cada.
+- 1 Caixa 3D: R$ 10,00 cada.
+- Componentes adicionais com baixo custo. Ex: Solda, fios, cola quente. R$ 5,00.
+Estima-se que podemos vender cada unidade no valor de R$ 170,00. Com uma margem de lucro de aproximadamente 25%
 
 ## 📌 Versão
 
