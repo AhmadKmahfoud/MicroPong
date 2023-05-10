@@ -84,10 +84,10 @@ Lista de custos:
 O projeto se encontra na Versão 1.0
 
 ## ✒️ Autores
-- Caio Rabinovich
-- Felippe Onishi
-- Ahmad Mahfoud
-- Lucas Romanato
+- Caio Rabinovich 20.00255-6
+- Felippe Onishi  20.00255-6
+- Ahmad Mahfoud   20.01323-0
+- Lucas Romanato  20.00313-7
 ![image](https://github.com/AhmadKmahfoud/MicroPong/assets/82835417/24e8a13e-b8ae-4654-ac77-243a514ce574)
 
 
