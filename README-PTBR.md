@@ -88,6 +88,8 @@ O projeto se encontra na Versão 1.0
 - Felippe Onishi
 - Ahmad Mahfoud
 - Lucas Romanato
+![image](https://github.com/AhmadKmahfoud/MicroPong/assets/82835417/24e8a13e-b8ae-4654-ac77-243a514ce574)
+
 
 ## 🎁 Expressões de gratidão
 Gostaríamos de agradecer aos nossos professores Sergio e Rodrigo pela orientação e suporte durante o desenvolvimento deste projeto.
