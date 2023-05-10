@@ -1,9 +1,11 @@
 # Pong em MicroPython
 
 Este projeto consiste na criação de um jogo de Pong utilizando o MicroPython em uma placa de desenvolvimento com suporte a MicroPython e uma tela OLED. O jogo contará com botões para iniciar e reiniciar a partida, e dois potenciômetros que serão utilizados para controlar as paletas.
+![image](https://github.com/AhmadKmahfoud/MicroPong/assets/82835417/e1a74199-1585-48f5-9bf5-7263e9f90bc3)
 
 ### 🚀 Esquema Eletrico
-![image](https://user-images.githubusercontent.com/82835417/235048457-19122b90-e9ee-4508-bafc-31380a168091.png)
+![image](https://github.com/AhmadKmahfoud/MicroPong/assets/82835417/c6cc07fa-4265-47e7-8c5a-74f701d13826)
+
 
 ### 🧱 Diagrama de blocos
 ![image](https://user-images.githubusercontent.com/82835417/235049069-e432b852-4df9-42a7-923d-1500570943a5.png)
@@ -50,6 +52,12 @@ Para implantar o projeto em um sistema ativo, basta copiar todos os arquivos do 
 
 
 https://github.com/AhmadKmahfoud/MicroPong/assets/82835417/b3d12c3b-8503-437b-9c47-501fbb684a49
+
+
+
+https://github.com/AhmadKmahfoud/MicroPong/assets/82835417/79712438-7010-4a3e-92bf-f296b0e5b02b
+
+
 
 
 ## 🛠️ Construído com
